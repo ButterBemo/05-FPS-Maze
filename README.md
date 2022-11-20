@@ -18,11 +18,23 @@ Creative use of lights or materials
 
 ## References
 https://github.com/BL-MSCH-C220-F22/Project-05-Demo
+
+
 https://gist.github.com/BL-MSCH-C220-F22/c934563d2b75c7dcf9c6a282b456d4e8
+
+
 https://kenney.nl/assets/platformer-kit
+
+
 https://opengameart.org/content/muzzle-flash-with-model
+
+
 https://opengameart.org/content/bullet-decal
+
+
 https://kenney.nl/assets/blaster-kit
+
+
 
 ## Future Development
 None
